@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto Insights</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #121212;
+            color: #fff;
+            text-align: center;
+        }
+        header {
+            background: #1e1e1e;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #1a1a1a;
+            border-radius: 10px;
+        }
+        a {
+            color: #00bcd4;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #aaa;
+        }
+    </style>
+</head>
+<body>
+
+    <header>Crypto Insights - Chia sẻ kiến thức Crypto</header>
+
+    <section>
+        <h2>Chào mừng bạn đến với Crypto Insights!</h2>
+        <p>Đây là nơi mình chia sẻ những kiến thức, kinh nghiệm và phân tích về thị trường crypto.</p>
+        
+        <h3>Nội dung chính:</h3>
+        <ul>
+            <li>Phân tích thị trường & xu hướng</li>
+            <li>Chiến lược giao dịch hiệu quả</li>
+            <li>Các nguyên tắc quản lý rủi ro</li>
+            <li>Những cập nhật quan trọng từ thị trường</li>
+        </ul>
+        
+        <p>Hãy theo dõi để không bỏ lỡ những bài viết mới nhất!</p>
+    </section>
+
+    <section>
+        <h3>Liên hệ</h3>
+        <p>Email: <a href="mailto:cunyou8998@gmail.com">cunyou8998@gmail.com</a></p>
+        <p>Facebook: <a href="https://www.facebook.com/cun.nguyen.75470316?mibextid=wwXIfr&mibextid=wwXIfr/" target="_blank">Theo dõi trên Facebook</a></p>
+    </section>
+
+    <div class="footer">© 2025 Crypto Insights. Tất cả các quyền được bảo lưu.</div>
+
+</body>
+</html>
